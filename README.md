@@ -8,13 +8,13 @@ Kyla Ward
 Courtney Hayes
 
 
-##### Communication protocol- Primary slack group messaging and GitHub,
+##### Communication protocol- Primary slack group messaging and GitHub respository,
 zoom group sessions when schedules allow typically weekends after 8pm. Update README individually with availabilty
 
 
 ### Project Overview
-Topic: Trends coorelated between movie release and popular fan fiction.
-The reason seleced is in order to determine if there are any trends between movie releases and popularity in fan fiction tags.
+Topic: predict fan fiction populatiry (based on number of fics written) based on popularity (based on score) 
+The reason seleced is in order to determine if there are any trends between movie scores and popularity in fan fiction tags.
 Sources: (insert source data by 2/9)
 
 
