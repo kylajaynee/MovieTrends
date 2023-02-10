@@ -6,6 +6,7 @@
 
 Kyla Ward
 Courtney Hayes
+Shawn Kitagawa
 
 
 
