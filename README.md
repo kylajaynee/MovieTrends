@@ -4,10 +4,13 @@
 
 #### Members:
 
-Kyla Ward
-Courtney Hayes
-Shawn Kitagawa
-Alekzander Holmes
+Kyla Ward,
+
+Courtney Hayes,
+
+Shawn Kitagawa,
+
+Alekzander Holmes,
 
 
 
