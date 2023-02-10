@@ -10,7 +10,8 @@ Courtney Hayes,
 
 Shawn Kitagawa,
 
-Alekzander Holmes,
+Alekzander Holmes
+
 
 
 
