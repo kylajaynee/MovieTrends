@@ -23,10 +23,10 @@ slack channel.
 
 
 ### Project Overview
-For this final project we have chosen to use the skills learned in scraping websites, cleaning data, creating ERD and databases, and being able to present a cohesive 
-story with visualizations. The data we will be working with is a list of movies released from 2010-2016 from the website IMDB with their movie rating and comparing to 
-a fan fiction site AO3. This website collects tags for each movie name when there is a story added pertaining to the movie title. We will be trying to determine if 
-there is a correlation between the popular movies releases and number of fan fiction stories.
+For this final project we have chosen to use the skills learned in scraping websites, cleaning data, creating ERD and databases to present a cohesive 
+story with visualizations. The data we will be working with is a list of movies released filtered from 2010-2016 from the website IMDB with their movie rating and 
+comparing to a fan fiction site AO3. This website collects tags for each movie name when there is a story added pertaining to the movie title. We will be trying to 
+determine if there is a correlation between popular movies releases and the number of fan fiction stories tagged.
 
 
 
