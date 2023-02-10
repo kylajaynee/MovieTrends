@@ -1,63 +1,48 @@
 # MovieTrends
-Final Project
+##Final Project
 
 
-### Members:
+#### Members:
 
 Kyla Ward
 Courtney Hayes
 
 
-##### Communication protocol- Primary slack group messaging and GitHub respository,
-zoom group sessions when schedules allow typically weekends after 8pm. Update README individually with availabilty
+
+##### Communication protocol for Group
+Primary communication through the group project slack channel as well as updating our group GitHub respository branch promptly.
+Zoom group sessions can be planned when schedules allow typically weekends after 8pm. Group will update and keep communication on scheduling open through the primary 
+slack channel.
 
 
 ### Project Overview
-Topic: predict fan fiction populatiry (based on number of fics written) based on popularity (based on score) 
-The reason seleced is in order to determine if there are any trends between movie scores and popularity in fan fiction tags.
-Sources: (insert source data by 2/9)
+For this final project we have chosen to use the skills learned in scraping websites, cleaning data, creating ERD and databases, and being able to present a cohesive 
+story with visualizations. The data we will be working with is a list of movies released from 2010-2016 from the website IMDB with their movie rating and comparing to 
+a fan fiction site AO3. This website collects tags for each movie name when there is a story added pertaining to the movie title. We will be trying to determine if 
+there is a correlation between the popular movies releases and number of fan fiction stories.
 
 
-##### Timeline:
+
+
+##### Deliverable:
 Segment 1 2/9 
 1. Source data chosen (website pulled from AO3 and IMBD dataset)
-2. Read sample data into Postgres with SQL (set primary keys/schema)
-3. Outline machine learning model (Courtney/Kyla)
-4. Update readme (DONE)
-
-
-Segment 2 2/16
-1. Detail README that includes priject status, images, descriptions, and results
-2. Machine Learning Model including a confusion matrix and accuracy score 
-3. Database that stores data for the project with at least two tables or collections (SQL)
-4. Update README Description of data exploration, descriptions of the anaylsis phase, technologoies, languages, tools, and algorithm 
-   and update current README info.
-
-
-Segment 3 2/23
-1. Detailed readme with project status, images, and results.
-2. Finish Machine Learning model including a confusion and accuracy score (Stock_Model.ipynb)
-3. Finish Database that stores data for the project with at least two tables or collections (SQL)
-4. A dashboard that has at least one interactive element (Tableau or Javascript Webpage)
-
-#### Presentation Final
-The selected topic and the reasoning for that selection
-A description of the data source. 
-The questions that the team planned to answer with the data.  
-A description of the data exploration phase of the project. 
-A description of the analysis phase of the project. 
-The technologies, languages, tools, and algorithms that the team used throughout the project.
-The results of the analysis. 
-Any recommendations for a future analysis. 
-Anything that the team would have done differently if they had more time.  
-Additionally, the following requirements must be met:
-
-All the team members present in equal proportions.
-The team demonstrates the interactivity of the dashboard in real time.
-The presentation falls within any time limits that the instructor provides.
+2. Read sample data into Postgres with SQL 
+3. Outline machine learning model 
+4. README
 
 
 
-###### Variables:
-X- 
-y- 
+#### Presentation
+The reason for selecting this topic is to create a machine learning model to help determine if movie popularity releases affect the number of fan fiction stories on 
+this subject.By using a dataset from IMBD with a list of movies based on popularity, or high IMDB score, from 2010-2016 and the dataset scraped from the website A03 
+that includes each movie titles and containing the total number of stories uploaded to the site with this title tagged. 
+We will be using our skills across the board with website scraping, cleaning data using Pandas, SQL and Postgres, creating a machine learning model, and being able to 
+present our findings as if to a potential client. 
+
+
+
+
+
+
+
