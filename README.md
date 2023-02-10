@@ -7,6 +7,8 @@
 Kyla Ward
 Courtney Hayes
 Shawn Kitagawa
+Alekzander Holmes
+
 
 
 
