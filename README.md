@@ -19,7 +19,7 @@ Alekzander Holmes
 ##### Communication protocol for Group
 Primary communication through the group project slack channel as well as updating our group GitHub respository branch promptly.
 Zoom group sessions can be planned when schedules allow typically weekends after 8pm. Group will update and keep communication on scheduling open through the primary 
-slack channel.
+slack channel. Discuss everyones game plan during class for upcoming tasks
 
 
 ### Project Overview
@@ -27,6 +27,9 @@ For this final project we have chosen to use the skills learned in scraping webs
 story with visualizations. The data we will be working with is a list of movies released filtered from 2010-2016 from the website IMDB with their movie rating and 
 comparing to a fan fiction site AO3. This website collects tags for each movie name when there is a story added pertaining to the movie title. We will be trying to 
 determine if there is a correlation between popular movies releases and the number of fan fiction stories tagged.
+
+
+#### Data Overview
 
 
 
