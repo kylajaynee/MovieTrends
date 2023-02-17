@@ -30,6 +30,11 @@ determine if there is a correlation between popular movies releases and the numb
 
 
 #### Data Overview
+![genre](https://user-images.githubusercontent.com/111584967/219543939-28a3398a-af44-4816-95fc-7895e1df0a09.PNG)
+![global_distribution](https://user-images.githubusercontent.com/111584967/219543955-ba556e12-4d8c-4201-9bf9-2e7bf0e8e7d1.PNG)
+![rating](https://user-images.githubusercontent.com/111584967/219543986-c66e9f48-b710-4cb3-85fb-06c54bb0b709.PNG)
+![movie_scores](https://user-images.githubusercontent.com/111584967/219544011-2d168cdf-0303-440b-a0e6-4351d2efa000.PNG)
+![key](https://user-images.githubusercontent.com/111584967/219544032-f9ba24f9-a9cc-4de0-90c5-e2d4434c2a99.PNG)
 
 
 
