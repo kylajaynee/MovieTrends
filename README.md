@@ -26,7 +26,8 @@ slack channel. Discuss everyones game plan during class for upcoming tasks
 For this final project we have chosen to use the skills learned in scraping websites, cleaning data, creating ERD and databases to present a cohesive 
 story with visualizations. The data we will be working with is a list of movies released filtered from 2010-2016 from the website IMDB with their movie rating and 
 comparing to a fan fiction site AO3. This website collects tags for each movie name when there is a story added pertaining to the movie title. We will be trying to 
-determine if there is a correlation between popular movies releases and the number of fan fiction stories tagged.
+determine if there is a correlation between popular movies releases and the number of fan fiction stories tagged. The 2 sites we have used are IMDB and A03 a popular 
+fan fiction site. We will be determining a movies popularity based on the IMDB score, and the number of fan fictions written about each movie title.
 
 
 #### Data Overview
@@ -46,18 +47,20 @@ Using SQLite a merged and cleaned dataset created
 
 
 
-##### Deliverable:
-Segment 2 2/16 
-1. A detailed README.md file that includes the project status, images, descriptions, and results
-2. At least eight total commits per team member 
-3. A machine learning model, including a confusion matrix and accuracy score
-4. RDatabase that stores data for the project with at least two tables or collections 
-
-
 
 #### Presentation
-The reason for selecting this topic is to create a machine learning model to help determine if movie popularity releases affect the number of fan fiction stories on 
-this subject.By using a dataset from IMBD with a list of movies based on popularity, or high IMDB score, from 2010-2016 and the dataset scraped from the website A03 
-that includes each movie titles and containing the total number of stories uploaded to the site with this title tagged. 
-We will be using our skills across the board with website scraping, cleaning data using Pandas, SQL and Postgres, creating a machine learning model, and being able to 
-present our findings as if to a potential client. We added in using a new library langdetect in Python in order to further filter our data by language. 
+Outline of our process with visualizations, each group member can explain which parts they contributed.
+1.	After project was set we gathered the necessary data by scraping A03 with splinter and chrome browser and then designed our schema outline
+2.	Preparing and cleaning data. We also used various python libraries, using pandas is important to manipulate the data. We learned a new one LangDetect that helped 
+    our process greatly. Then both set of data were merged as final complete and clean dataset.
+3.	Database was created using SQLite and we made a primary key to be the movie tag used on A03 to be able to merge our data with an inner join.       
+4.	Machine learning model process linear regression model, when we started this hypothesis was that the movie score would have more and results
+5.	Visualization breakdown 
+6.	Our ultimate discovery of the model and visualizations we were able to create.
+7.	Describe ideas for how you can further refine adjust and improve the model for future analysis.  
+
+
+#### Conclusion
+Future analysis and what can be done to improve
+
+
