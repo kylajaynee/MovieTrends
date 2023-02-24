@@ -1,6 +1,6 @@
-# MovieTrends
 ## Final Project
 
+### Movie Trends & Fanfiction
 
 #### Members:
 
@@ -15,19 +15,13 @@ Alekzander Holmes
 
 
 
-
-##### Communication protocol for Group
-Primary communication through the group project slack channel as well as updating our group GitHub respository branch promptly.
-Zoom group sessions can be planned when schedules allow typically weekends after 8pm. Group will update and keep communication on scheduling open through the primary 
-slack channel. Discuss everyones game plan during class for upcoming tasks
-
-
 ### Project Overview
 For this final project we have chosen to use the skills learned in scraping websites, cleaning data, creating ERD and databases to present a cohesive 
 story with visualizations. The data we will be working with is a list of movies released filtered from 2010-2016 from the website IMDB with their movie rating and 
 comparing to a fan fiction site AO3. This website collects tags for each movie name when there is a story added pertaining to the movie title. We will be trying to 
 determine if there is a correlation between popular movies releases and the number of fan fiction stories tagged. The 2 sites we have used are IMDB and A03 a popular 
-fan fiction site. We will be determining a movies popularity based on the IMDB score, and the number of fan fictions written about each movie title.
+fan fiction site. We will be determining a movies popularity based on the IMDB score, and the number of fan fictions written about each movie title. We chose a linear
+regression for this model to answer our hypothesis.
 
 
 #### Data Overview
@@ -48,19 +42,27 @@ Using SQLite a merged and cleaned dataset created
 
 
 
-#### Presentation
-Outline of our process with visualizations, each group member can explain which parts they contributed.
+#### Process 
 1.	After project was set we gathered the necessary data by scraping A03 with splinter and chrome browser and then designed our schema outline
 2.	Preparing and cleaning data. We also used various python libraries, using pandas is important to manipulate the data. We learned a new one LangDetect that helped 
     our process greatly. Then both set of data were merged as final complete and clean dataset.
 3.	Database was created using SQLite and we made a primary key to be the movie tag used on A03 to be able to merge our data with an inner join.       
-4.	Machine learning model process linear regression model, when we started this hypothesis was that the movie score would have more and results
-5.	Visualization breakdown 
+4.	Machine learning model process linear regression model, when we started this hypothesis we only used a small amount of features from our dataset which resulted in 
+    an unsuccessful model, but with some adjustments can be improved.
+5.	Visualization breakdown Dashboard
 6.	Our ultimate discovery of the model and visualizations we were able to create.
-7.	Describe ideas for how you can further refine adjust and improve the model for future analysis.  
+ 
 
 
 #### Conclusion
-Future analysis and what can be done to improve
+We learned a lot about effectiently cleaning and preparing data, and how useful different python libraries and imports can assist in data analysis. We also 
+learned the benefit of not only being familiar with your data but also analyzing them first with visualizations to start creating your story. With the amount of data 
+included in these sets there are endless ways to continue to filter and adjust features in order to have a successful model. 
+Although the features we attempted with this model were unsuccessful, we did still learn a lot about our data in the process. Which will be vital in continuing the
+research.
 
 
+##### Communication protocol for Group
+Primary communication through the group project slack channel as well as updating our group GitHub respository branch promptly.
+Zoom group sessions can be planned when schedules allow typically weekends after 8pm. Group will update and keep communication on scheduling open through the primary 
+slack channel. Discuss everyones game plan during class for upcoming tasks
