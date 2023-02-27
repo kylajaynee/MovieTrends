@@ -8,9 +8,7 @@ Kyla Ward,
 
 Courtney Hayes,
 
-Shawn Kitagawa,
 
-Alekzander Holmes
 
 
 
@@ -62,7 +60,3 @@ Although the features we attempted with this model were unsuccessful, we did sti
 research.
 
 
-##### Communication protocol for Group
-Primary communication through the group project slack channel as well as updating our group GitHub respository branch promptly.
-Zoom group sessions can be planned when schedules allow typically weekends after 8pm. Group will update and keep communication on scheduling open through the primary 
-slack channel. Discuss everyones game plan during class for upcoming tasks
